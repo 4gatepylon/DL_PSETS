@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+numpy
+tqdm
+wget
+nltk
+einops
+jaxtyping
