@@ -7,3 +7,4 @@ wget
 nltk
 einops
 jaxtyping
+notebook
